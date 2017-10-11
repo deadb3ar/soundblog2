@@ -43,3 +43,40 @@ h2.widget-title {
     margin-bottom: 1.5em;
     text-transform: uppercase;
 }
+
+/*changes h5's color*/
+h5 {
+    color: #595630;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+/*changes the links inside post's color*/
+a {
+    color: #595630;
+    text-decoration: none;
+}
+
+/*changes search button color*/
+button, input[type="button"], input[type="submit"] {
+    background-color: #595630;
+}
+
+/*changes selected nav color*/
+.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
+    color: #595630;
+}
+
+/*adds an underline to the title  of pages*/
+.page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
+    color: #222;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
