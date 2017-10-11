@@ -1,0 +1,231 @@
+# Translation of Themes - Kiyoshi in English (Canada)
+# This file is distributed under the same license as the Themes - Kiyoshi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 11:03:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Kiyoshi\n"
+
+#. Description of the plugin/theme
+msgid "Kiyoshi is an edgy WordPress theme which is crafted especially for creative publishers. The theme’s extra-ordinary and responsive layout makes your stream of posts look outstanding and unique. Kiyoshi is targeted to architects, photographers and other aesthetically driven folks."
+msgstr "Kiyoshi is an edgy WordPress theme which is crafted especially for creative publishers. The theme’s extra-ordinary and responsive layout makes your stream of posts look outstanding and unique. Kiyoshi is targeted to architects, photographers and other aesthetically driven folks."
+
+#. Theme Name of the plugin/theme
+msgid "Kiyoshi"
+msgstr "Kiyoshi"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/structure/template-tags.php:110
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/structure/template-tags.php:110
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/structure/template-tags.php:110
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/structure/template-tags.php:104
+msgid "Tagged with %1$s"
+msgstr "Tagged with %1$s"
+
+#: inc/structure/template-tags.php:98
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/structure/template-tags.php:96 inc/structure/template-tags.php:102
+msgid ", "
+msgstr ", "
+
+#: inc/structure/template-tags.php:78
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/structure/template-tags.php:52
+msgid "Featured"
+msgstr "Featured"
+
+#: inc/structure/pagination.php:19
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/structure/pagination.php:18
+msgctxt "Next post"
+msgid "Next"
+msgstr "Next"
+
+#: inc/structure/page.php:48 inc/structure/post.php:71
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: %s: Name of current post.
+#: inc/structure/page.php:41 inc/structure/post.php:64
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/structure/header.php:15
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/structure/footer.php:50
+msgid "Theme %1$s by %2$s"
+msgstr "Theme %1$s by %2$s"
+
+#: inc/structure/footer.php:49
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/structure/comments.php:62 inc/structure/template-tags.php:114
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/structure/comments.php:55
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/structure/comments.php:43
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/functions/setup.php:101
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/functions/setup.php:63
+msgid "Primary Menu - maximal 3 levels"
+msgstr "Primary Menu - maximal 3 levels"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/functions/extras.php:66
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/admin/welcome-screen/welcome-screen.php:43
+msgid "Get started with Kiyoshi"
+msgstr "Get started with Kiyoshi"
+
+#: inc/admin/welcome-screen/welcome-screen.php:42
+msgid "Thanks for choosing Kiyoshi! Visit the %swelcome screen%s to get started."
+msgstr "Thanks for choosing Kiyoshi! Visit the %swelcome screen%s to get started."
+
+#: inc/admin/welcome-screen/sections/intro.php:33
+msgid "Looking for more themes? Take a look at my website. %sWebsite%s"
+msgstr "Looking for more themes? Take a look at my website. %sWebsite%s"
+
+#: inc/admin/welcome-screen/sections/intro.php:24
+msgid "Why not leave a review on %sWordPress.org%s? I would really appreciate it! :-)"
+msgstr "Why not leave a review on %sWordPress.org%s? I would really appreciate it! :-)"
+
+#: inc/admin/welcome-screen/sections/intro.php:23
+msgid "Are you enjoying Kiyoshi?"
+msgstr "Are you enjoying Kiyoshi?"
+
+#: inc/admin/welcome-screen/sections/intro.php:22
+msgid "Translate"
+msgstr "Translate"
+
+#: inc/admin/welcome-screen/sections/intro.php:22
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/admin/welcome-screen/sections/intro.php:21
+msgid "Found a bug? Want to contribute a patch or create a new feature? GitHub is the place to go! Or would you like to translate Kiyoshi in to your language?"
+msgstr "Found a bug? Want to contribute a patch or create a new feature? GitHub is the place to go! Or would you like to translate Kiyoshi in to your language?"
+
+#: inc/admin/welcome-screen/sections/intro.php:20
+msgid "Can I Contribute?"
+msgstr "Can I Contribute?"
+
+#: inc/admin/welcome-screen/sections/intro.php:19
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: inc/admin/welcome-screen/sections/intro.php:18
+msgid "As this is a free theme, support is limited to the basics. You can find me helping out in the designated support forum."
+msgstr "As this is a free theme, support is limited to the basics. You can find me helping out in the designated support forum."
+
+#: inc/admin/welcome-screen/sections/intro.php:17
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/welcome-screen/sections/intro.php:15
+msgid "About this Theme"
+msgstr "About this Theme"
+
+#: inc/admin/welcome-screen/sections/intro.php:11
+msgid "Awesome! You've decided to use Kiyoshi as your theme."
+msgstr "Awesome! You've decided to use Kiyoshi as your theme."
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Comments are closed"
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://felixdorner.de/"
+msgstr "http://felixdorner.de/"
+
+#. Author of the plugin/theme
+msgid "Felix Dorner"
+msgstr "Felix Dorner"
+
+#. Theme URI of the plugin/theme
+msgid "http://kiyoshi.felixdorner.de/"
+msgstr "http://kiyoshi.felixdorner.de/"
